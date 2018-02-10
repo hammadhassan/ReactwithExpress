@@ -1,0 +1,42 @@
+[
+   {
+      "id": 786,
+      "name": "HomePod",
+      "description": "The new sound of home.",
+      "price": "$349.99",
+      "buy_url": "https://www.apple.com/homepod/",
+      "image_url": "https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/h/om/homepod/hero/homepod-hero-select-201801?wid=934&amp;hei=441&amp;fmt=png-alpha&amp;qlt=95&amp;.v=1516219268727"
+   },
+   {
+      "id": 619,
+      "name": "iPhone X",
+      "description": "Say hello to the future.",
+      "price": "$999",
+      "buy_url": "https://www.apple.com/iphone-x/",
+      "image_url": "https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone/x/iphone-x-gallery1-2017?wid=835&hei=641&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1506704361965"
+   },
+   {
+      "id": 316,
+      "name": "Apple Watch",
+      "description": "Freedom calls.",
+      "price": "$749.99",
+      "buy_url": "https://www.apple.com/apple-watch-series-3/",
+      "image_url": "https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/s/ta/stainless/black/stainless-black-milanese-black-2up_gpscell_varend?wid=470&hei=556&fmt=png-alpha&qlt=95&.v=1504117925457"
+   },
+   {
+      "id": 949,
+      "name": "iPad Pro",
+      "description": "A new way to explore the world.",
+      "price": "$799.99",
+      "buy_url": "https://www.apple.com/ipad-pro/films/",
+      "image_url": "https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/i/pa/ipad/pro/ipad-pro-12in-hero-201706?wid=485&hei=550&fmt=png-alpha&qlt=95&.v=1505500519741"
+   },
+   {
+      "id": "25",
+      "name": "iMac Pro",
+      "description": "Power to the pro.",
+      "price": "$4,999.00",
+      "buy_url": "https://www.apple.com/imac-pro/",
+      "image_url": "https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ma/imacpro/27/imacpro-27-retina-selection-hero?wid=452&hei=420&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1511982294002"
+   }
+]
