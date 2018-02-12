@@ -186,7 +186,7 @@
         var Product = React.createClass({
             render(){
                 return(
-                    <div className="well well-lg products">
+                    <div className="jumbotron jumbotron-fluid">
                         <div className="row">
                             <div className="col-md-4">
                                 <img style={{width: "100%" }} src={this.props.productFields.image_url} />
@@ -195,9 +195,8 @@
                                 <h3><a target="_blank" href={this.props.productFields.buy_url} >
                                 {this.props.productFields.name}
                                 </a></h3>
-                                <p>{this.props.productFields.description}</p>
+                                <p className="lead">{this.props.productFields.description}</p>
                                 <small>{this.props.productFields.price}</small>
-
                             </div>
                         </div>
                     </div>
